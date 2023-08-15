@@ -26,7 +26,7 @@ import (
 )
 
 func main() {
-    personCreator := CreatePersonCreator()
+    personCreator := personafactory.CreatePersonCreator()
     p := personCreator.Create()
     p.PrintJSON()
 }
