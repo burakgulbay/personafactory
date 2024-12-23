@@ -2,7 +2,9 @@
 
 A simple persona factory including job, birthdate, gender with reasonable first name and last name using Go<br />
 May use for mocking purposes<br />
-I will keep updating by adding _email, address, social accounts,_ etc.
+
+# TODO
+_email, address, social accounts,_ etc.
 
 ## Install in Your Project
 
